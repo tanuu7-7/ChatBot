@@ -1,0 +1,11 @@
+# Ignore model binaries and other large files
+models/
+*.bin
+*.ggmlv3
+
+# Python cache and environment files
+__pycache__/
+*.pyc
+.venv/
+venv/
+ 
